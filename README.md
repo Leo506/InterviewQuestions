@@ -1,4 +1,5 @@
 # Вопросы для собеса на C# Developer
+[Шпаргалка по принципам разработки ПО](/SoftwareDevelopmentPrinciples.md)
 <details>
     <summary>Абстрактные классы, интерфейсы, рекорды и структуры</summary>
 
